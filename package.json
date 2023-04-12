@@ -23,3 +23,7 @@
     "whatsapp-web.js": "^1.16.4"
   }
 }
+
+"scripts": {
+  "build": "npm run clean && npm run compile"
+}
